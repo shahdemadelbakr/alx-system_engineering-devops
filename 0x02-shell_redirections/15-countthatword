@@ -1,0 +1,2 @@
+#!/bin/bash 
+greb -i "bin" /etc/passwd | wc -1
