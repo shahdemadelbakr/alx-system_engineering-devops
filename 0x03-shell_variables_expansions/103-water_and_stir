@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(print %0 $(($((5#$(echo $WATER | tr 'water''0
